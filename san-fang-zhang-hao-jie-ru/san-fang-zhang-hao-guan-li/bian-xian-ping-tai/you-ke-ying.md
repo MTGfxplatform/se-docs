@@ -13,6 +13,6 @@
 * account\_id：调用接口的必需字段
 * token：调用接口的必需字段
 
-![](<../../../.gitbook/assets/image (127).png>)
+![](<../../../.gitbook/assets/image (127) (1).png>)
 
 游可赢的account\_id和token需要跟游可赢侧单独申请，线下同步

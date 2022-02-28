@@ -22,6 +22,10 @@ adjust平台需要在后台设置数据实时回传，针对单个APP选择“�
 
 ![](<../../../.gitbook/assets/image (64).png>)
 
+当您在adjust上已经有回传链接时，仍旧可以添加数据回传，adjust支持向多个终端回传数据：
+
+![](<../../../.gitbook/assets/image (127).png>)
+
 回传url通过后台编辑adjust账号获取
 
 ![](<../../../.gitbook/assets/image (111).png>)
