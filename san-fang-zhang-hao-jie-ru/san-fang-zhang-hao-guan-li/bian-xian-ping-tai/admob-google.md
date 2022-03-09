@@ -6,7 +6,7 @@
 
 ![](<../../../.gitbook/assets/image (80).png>)
 
-添加Adwords账户会跳转到Adwords的授权页面，正常登录Adwords账户后，勾选您想要授权的账户，并点击同意授权，完成授权过程
+添加Adwords账户会跳转到Adwords的授权页面，登录Admob账户后，点击同意授权，完成授权过程
 
 ![](<../../../.gitbook/assets/image (38).png>)
 
