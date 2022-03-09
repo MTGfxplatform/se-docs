@@ -11,7 +11,7 @@ Applovin平台需要输入的字段为：
 * 账户：标识当前账户
 * Report Key：调用报表接口的必需字段
 
-![](<../../../.gitbook/assets/image (133).png>)
+![](<../../../.gitbook/assets/image (133) (1).png>)
 
 对应在Applovin后台各字段的位置：
 

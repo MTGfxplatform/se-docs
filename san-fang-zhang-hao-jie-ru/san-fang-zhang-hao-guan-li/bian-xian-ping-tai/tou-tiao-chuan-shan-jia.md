@@ -16,8 +16,9 @@
 
 穿山甲后台通过 接入-数据与内容接收 页面，获取：
 
-* RoleID->UserID
+* userid->右上角用户名处
+* RoleID->查看接口文档处
 * SecurityKey->ReportKey
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (133).png>)
 
