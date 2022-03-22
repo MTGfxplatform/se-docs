@@ -13,6 +13,10 @@
 
 ![](<../../../.gitbook/assets/image (167).png>)
 
+api\_access\_token的获取位置：
+
+![](<../../../.gitbook/assets/image (165).png>)
+
 \
 tenjin平台需要在后台设置数据实时回传，在congigure-Apps页面中，点击您需要回传数据的app
 

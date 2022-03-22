@@ -12,7 +12,7 @@ sigmob平台需要输入的字段为：
 * publisher\_key：调用接口的必需字段
 * secret\_key：调用接口的必需字段
 
-![](<../../../.gitbook/assets/image (165).png>)
+![](<../../../.gitbook/assets/image (165) (1).png>)
 
 对应在Mintegral后台各字段的位置：账户信息-报表API
 
