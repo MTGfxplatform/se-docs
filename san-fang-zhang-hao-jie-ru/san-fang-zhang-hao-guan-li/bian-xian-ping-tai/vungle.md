@@ -22,4 +22,4 @@ vungle平台需要输入的字段为：
 
 * API密钥->Report Key
 
-![](<../../../.gitbook/assets/image (117).png>)
+![](<../../../.gitbook/assets/image (117) (1).png>)

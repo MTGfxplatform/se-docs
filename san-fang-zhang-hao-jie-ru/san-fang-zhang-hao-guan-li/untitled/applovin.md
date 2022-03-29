@@ -10,6 +10,8 @@ Applovin平台需要输入的字段为：
 
 * 账户
 * Report Key
+* Client Id
+* Client Secret
 
 对应在Applovin后台各字段的位置：
 
@@ -24,3 +26,17 @@ Account-Keys页面：
 * Report Key
 
 ![](<../../../.gitbook/assets/image (17).png>)
+
+Client ID和Client Secret通过Account>>OAuth Apps页面获取
+
+* 创建一个新的OAuth App
+
+![](<../../../.gitbook/assets/image (151).png>)
+
+* 按照如下选项勾选
+
+![](<../../../.gitbook/assets/image (117).png>)
+
+* 创建成功后再次点进APP中即可看到两个字段：
+
+![](<../../../.gitbook/assets/image (147).png>)
